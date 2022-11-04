@@ -1,7 +1,7 @@
 # Javascript QR Code Generator
 Convert your text, links, addresses to QR codes for free.
 
- [View Live Demo](https://javascript-obfuscator.vercel.app/)
+ [View Live Demo](https://javascript-qr-code-generator.vercel.app/)
 
 
 ## Screenshot
